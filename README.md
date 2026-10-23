@@ -38,3 +38,4 @@ Student Registration and Profile Management Application
 4. Open forwarded port 3000.
 
 ## Documentation
+Submitted separately as one PDF through Microsoft Teams.
